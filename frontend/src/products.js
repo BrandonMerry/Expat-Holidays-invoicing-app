@@ -8,7 +8,7 @@ const products = [
     category: '5-star pool Villa',
     city: 'phuket',
     price: 17195,
-    countInStock: 100,
+    countInStock: 10,
   },
   {
     _id: '2',
@@ -19,7 +19,7 @@ const products = [
     category: '5-star pool Villa',
     city: 'phuket',
     price: 28000,
-    countInStock: 100,
+    countInStock: 10,
   },
   {
     _id: '3',
@@ -30,7 +30,7 @@ const products = [
     category: '5-star pool Villa',
     city: 'phuket',
     price: 28000,
-    countInStock: 100,
+    countInStock: 10,
   },
   {
     _id: '4',
@@ -41,7 +41,7 @@ const products = [
     category: '5-star pool Villa',
     city: 'phuket',
     price: 13195,
-    countInStock: 100,
+    countInStock: 10,
   },
   {
     _id: '5',
@@ -52,7 +52,7 @@ const products = [
     category: '5-star pool Villa',
     city: 'phuket',
     price: 21000,
-    countInStock: 100,
+    countInStock: 10,
   },
   {
     _id: '6',
@@ -62,7 +62,7 @@ const products = [
     brand: 'The Shore Katathanii',
     category: '5-star pool Villa',
     price: 11000,
-    countInStock: 100,
+    countInStock: 10,
   },
 ]
 
