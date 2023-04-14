@@ -68,6 +68,6 @@ const products = [
 ]
 
 // standard js
-module.exports = proudcts
+// module.exports = products
 // for es modules
-// export default products
+export default products

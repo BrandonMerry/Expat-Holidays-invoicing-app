@@ -13,10 +13,11 @@ const Product = ({ product }) => {
         <Card.Subtitle className='py-1' as='p'>
           {product.room}
         </Card.Subtitle>
+        <Card.Text as='p'>{product.description}</Card.Text>
         <Card.Text className='text-info' as='p'>
           {product.ebo}
         </Card.Text>
-        <Card.Text as='p'>{product.description}</Card.Text>
+
         <Card.Text as='h5'>฿{product.price}</Card.Text>
         <ListGroup>
           <Button className='btn-block btn-success' type='button'>
