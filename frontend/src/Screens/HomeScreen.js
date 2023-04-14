@@ -10,7 +10,7 @@ const HomeScreen = () => {
       <Row>
         {/* use map to loop through products */}
         {products.map((product) => (
-          <Col sm={12} md={6} lg={4}>
+          <Col sm={12} md={6} lg={3}>
             {/* pass in the product from the arrow function */}
             <Product product={product} />
           </Col>

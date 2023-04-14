@@ -1,10 +1,11 @@
 const products = [
   {
     _id: '1',
-    name: ' The Shore - Sea view pool villa - no ebo ',
+    room: 'Sea view pool villa ',
     image: '/images/shore',
-    description: 'high season Nov 1 - Dec 20',
-    brand: 'The Shore Katathanii',
+    description: 'Nov 1 - Dec 20',
+    ebo: 'NO EBO',
+    brand: 'The Shore Katathani',
     category: '5-star pool Villa',
     city: 'phuket',
     price: 17195,
