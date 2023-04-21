@@ -23,6 +23,14 @@ const productSchema = mongoose.Schema(
       type: String,
       required: true,
     },
+    ebo: {
+      type: String,
+      required: true,
+    },
+    categroy: {
+      type:  String,
+      required: true,
+    },
 
     city: {
       type: String,
