@@ -11,10 +11,6 @@ const productSchema = mongoose.Schema(
       type: String,
       required: true,
     },
-    image: {
-      type: String,
-      required: true,
-    },
     room: {
       type: String,
       required: true,
@@ -28,15 +24,10 @@ const productSchema = mongoose.Schema(
       required: true,
     },
     categroy: {
-      type:  String,
-      required: true,
-    },
-
-    city: {
       type: String,
       required: true,
     },
-    numOfRooms: {
+    city: {
       type: String,
       required: true,
     },
